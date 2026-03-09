@@ -19,3 +19,5 @@ e1.afficherInformations()
 e2.afficherInformations()
 #remove car
 e1.retirerVoiture()
+# test err
+e1.affecterVoiture(v2)
