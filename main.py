@@ -12,3 +12,8 @@ e2.afficherInformations()
 
 v1.afficherInformations()
 v2.afficherInformations()
+
+e1.affecterVoiture(v1)
+e2.affecterVoiture(v2)
+e1.afficherInformations()
+e2.afficherInformations()
